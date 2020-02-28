@@ -1,0 +1,12 @@
+{
+  "name": "kraftyk",
+  "version": "1.0.0",
+  "description": "craft website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Katie Dear",
+  "license": "ISC"
+}
